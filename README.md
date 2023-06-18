@@ -1,4 +1,4 @@
-# Identifikasi Penyakit Tanaman pada Daun Kentang dengan Pengolahan Citra Menggunakan Pendekatan Algoritma K-Means dan Convolutional Neural Network
+# Identifikasi Penyakit Tanaman pada Daun Kentang dengan Pengolahan Citra Menggunakan Pendekatan Convolutional Neural Network dan Random Forest
 
 ## Kelompok 4 P1
 ### Anggota:
